@@ -1,0 +1,62 @@
+category_id,category_name,parent_category_id
+1,Electronics,
+2,Home & Kitchen,
+3,Fashion,
+4,Sports & Outdoors,
+5,Books,
+6,Beauty & Personal Care,
+7,Toys & Games,
+8,Grocery,
+9,Automotive,
+10,Office Supplies,
+11,Smartphones,1
+12,Laptops,1
+13,Headphones,1
+14,Cameras,1
+15,Televisions,1
+16,Tablets,1
+17,Smartwatches,1
+18,Cookware,2
+19,Furniture,2
+20,Bedding,2
+21,Storage,2
+22,Lighting,2
+23,Cleaning Supplies,2
+24,Men's Clothing,3
+25,Women's Clothing,3
+26,Footwear,3
+27,Accessories,3
+28,Bags,3
+29,Fitness Equipment,4
+30,Camping Gear,4
+31,Cycling,4
+32,Team Sports,4
+33,Yoga,4
+34,Fiction,5
+35,Non-Fiction,5
+36,Children's Books,5
+37,Comics,5
+38,Academic,5
+39,Skincare,6
+40,Haircare,6
+41,Makeup,6
+42,Fragrances,6
+43,Grooming,6
+44,Action Figures,7
+45,Board Games,7
+46,Puzzles,7
+47,Outdoor Toys,7
+48,Educational,7
+49,Snacks,8
+50,Beverages,8
+51,Staples,8
+52,Dairy,8
+53,Bakery,8
+54,Car Accessories,9
+55,Motorbike Accessories,9
+56,Tools,9
+57,Tyres & Wheels,9
+58,Stationery,10
+59,Printers,10
+60,Furniture,10
+61,Organizers,10

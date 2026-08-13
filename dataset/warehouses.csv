@@ -1,0 +1,26 @@
+warehouse_id,warehouse_name,city,state,country,capacity
+1,Portland Fulfillment Center,Portland,OR,USA,380045
+2,London Fulfillment Center,London,ENG,UK,196749
+3,Paris Fulfillment Center,Paris,IDF,France,175205
+4,San Diego Fulfillment Center,San Diego,CA,USA,444926
+5,Singapore Fulfillment Center,Singapore,SG,Singapore,65173
+6,Houston Fulfillment Center,Houston,TX,USA,277864
+7,Austin Fulfillment Center,Austin,TX,USA,162962
+8,Phoenix Fulfillment Center,Phoenix,AZ,USA,314566
+9,Munich Fulfillment Center,Munich,BY,Germany,482542
+10,Osaka Fulfillment Center,Osaka,27,Japan,108660
+11,Los Angeles Fulfillment Center,Los Angeles,CA,USA,388111
+12,Philadelphia Fulfillment Center,Philadelphia,PA,USA,357853
+13,Vancouver Fulfillment Center,Vancouver,BC,Canada,140369
+14,Kolkata Fulfillment Center,Kolkata,WB,India,403665
+15,Sydney Fulfillment Center,Sydney,NSW,Australia,126710
+16,Birmingham Fulfillment Center,Birmingham,ENG,UK,125808
+17,Manchester Fulfillment Center,Manchester,ENG,UK,359856
+18,Minneapolis Fulfillment Center,Minneapolis,MN,USA,168346
+19,Hyderabad Fulfillment Center,Hyderabad,TG,India,397193
+20,Miami Fulfillment Center,Miami,FL,USA,401660
+21,Leeds Fulfillment Center,Leeds,ENG,UK,125620
+22,Atlanta Fulfillment Center,Atlanta,GA,USA,487244
+23,Chennai Fulfillment Center,Chennai,TN,India,244158
+24,Hamburg Fulfillment Center,Hamburg,HH,Germany,81133
+25,San Antonio Fulfillment Center,San Antonio,TX,USA,474188
